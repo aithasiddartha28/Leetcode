@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/aithasiddartha28/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0735-asteroid-collision](https://github.com/aithasiddartha28/Leetcode/tree/master/0735-asteroid-collision) |
 ## Math
 |  |
 | ------- |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aithasiddartha28/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Array
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/aithasiddartha28/Leetcode/tree/master/0735-asteroid-collision) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/aithasiddartha28/Leetcode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
