@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/aithasiddartha28/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/aithasiddartha28/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Stack
 |  |
 | ------- |
@@ -41,8 +42,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/aithasiddartha28/Leetcode/tree/master/0735-asteroid-collision) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/aithasiddartha28/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/aithasiddartha28/Leetcode/tree/master/0735-asteroid-collision) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/aithasiddartha28/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
