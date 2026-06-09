@@ -43,9 +43,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/aithasiddartha28/Leetcode/tree/master/0735-asteroid-collision) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aithasiddartha28/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3689-maximum-total-subarray-value-i](https://github.com/aithasiddartha28/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/aithasiddartha28/Leetcode/tree/master/0735-asteroid-collision) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aithasiddartha28/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+## Greedy
+|  |
+| ------- |
+| [3689-maximum-total-subarray-value-i](https://github.com/aithasiddartha28/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 <!---LeetCode Topics End-->
