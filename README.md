@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/aithasiddartha28/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aithasiddartha28/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/aithasiddartha28/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aithasiddartha28/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aithasiddartha28/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/aithasiddartha28/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/aithasiddartha28/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aithasiddartha28/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aithasiddartha28/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aithasiddartha28/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Stack
