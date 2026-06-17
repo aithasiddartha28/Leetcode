@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aithasiddartha28/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/aithasiddartha28/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0234-palindrome-linked-list](https://github.com/aithasiddartha28/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aithasiddartha28/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/aithasiddartha28/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -88,4 +89,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/aithasiddartha28/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/aithasiddartha28/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/aithasiddartha28/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Depth-First Search
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/aithasiddartha28/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/aithasiddartha28/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Binary Tree
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/aithasiddartha28/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->
