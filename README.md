@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/aithasiddartha28/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aithasiddartha28/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/aithasiddartha28/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Dynamic Programming
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/aithasiddartha28/Leetcode/tree/master/0735-asteroid-collision) |
 | [1019-next-greater-node-in-linked-list](https://github.com/aithasiddartha28/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1441-build-an-array-with-stack-operations](https://github.com/aithasiddartha28/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1512-number-of-good-pairs](https://github.com/aithasiddartha28/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/aithasiddartha28/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/aithasiddartha28/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/aithasiddartha28/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -145,10 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/aithasiddartha28/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1512-number-of-good-pairs](https://github.com/aithasiddartha28/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/aithasiddartha28/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Hash Table
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/aithasiddartha28/Leetcode/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/aithasiddartha28/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1512-number-of-good-pairs](https://github.com/aithasiddartha28/Leetcode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
