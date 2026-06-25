@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/aithasiddartha28/Leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/aithasiddartha28/Leetcode/tree/master/0242-valid-anagram) |
+| [0771-jewels-and-stones](https://github.com/aithasiddartha28/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/aithasiddartha28/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aithasiddartha28/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3612-process-string-with-special-operations-i](https://github.com/aithasiddartha28/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/aithasiddartha28/Leetcode/tree/master/0242-valid-anagram) |
+| [0771-jewels-and-stones](https://github.com/aithasiddartha28/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/aithasiddartha28/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/aithasiddartha28/Leetcode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
