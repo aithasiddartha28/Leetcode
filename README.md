@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aithasiddartha28/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/aithasiddartha28/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -125,12 +126,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aithasiddartha28/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/aithasiddartha28/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Design
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aithasiddartha28/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aithasiddartha28/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/aithasiddartha28/Leetcode/tree/master/0622-design-circular-queue) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/aithasiddartha28/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/aithasiddartha28/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Prefix Sum
 |  |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/aithasiddartha28/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/aithasiddartha28/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Sorting
 |  |
@@ -159,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/aithasiddartha28/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/aithasiddartha28/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/aithasiddartha28/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/aithasiddartha28/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/aithasiddartha28/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
