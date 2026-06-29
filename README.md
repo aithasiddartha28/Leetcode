@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/aithasiddartha28/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/aithasiddartha28/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aithasiddartha28/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aithasiddartha28/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2073-time-needed-to-buy-tickets](https://github.com/aithasiddartha28/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aithasiddartha28/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3689-maximum-total-subarray-value-i](https://github.com/aithasiddartha28/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/aithasiddartha28/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/aithasiddartha28/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aithasiddartha28/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aithasiddartha28/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/aithasiddartha28/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/aithasiddartha28/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Queue
