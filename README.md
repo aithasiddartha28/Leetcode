@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/aithasiddartha28/Leetcode/tree/master/0735-asteroid-collision) |
 | [1019-next-greater-node-in-linked-list](https://github.com/aithasiddartha28/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1441-build-an-array-with-stack-operations](https://github.com/aithasiddartha28/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aithasiddartha28/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/aithasiddartha28/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/aithasiddartha28/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/aithasiddartha28/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/aithasiddartha28/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/aithasiddartha28/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aithasiddartha28/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aithasiddartha28/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/aithasiddartha28/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aithasiddartha28/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2974-minimum-number-game](https://github.com/aithasiddartha28/Leetcode/tree/master/2974-minimum-number-game) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/aithasiddartha28/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aithasiddartha28/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aithasiddartha28/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aithasiddartha28/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/aithasiddartha28/Leetcode/tree/master/2974-minimum-number-game) |
 ## Divide and Conquer
 |  |
