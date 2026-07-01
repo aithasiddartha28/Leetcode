@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/aithasiddartha28/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1441-build-an-array-with-stack-operations](https://github.com/aithasiddartha28/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aithasiddartha28/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/aithasiddartha28/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/aithasiddartha28/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/aithasiddartha28/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/aithasiddartha28/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/aithasiddartha28/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/aithasiddartha28/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Data Stream
 |  |
