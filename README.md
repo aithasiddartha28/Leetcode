@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/aithasiddartha28/Leetcode/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aithasiddartha28/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aithasiddartha28/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0622-design-circular-queue](https://github.com/aithasiddartha28/Leetcode/tree/master/0622-design-circular-queue) |
@@ -213,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aithasiddartha28/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/aithasiddartha28/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/aithasiddartha28/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
