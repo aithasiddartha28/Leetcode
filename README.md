@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/aithasiddartha28/Leetcode/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aithasiddartha28/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0303-range-sum-query-immutable](https://github.com/aithasiddartha28/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/aithasiddartha28/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0622-design-circular-queue](https://github.com/aithasiddartha28/Leetcode/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/aithasiddartha28/Leetcode/tree/master/0735-asteroid-collision) |
@@ -144,12 +145,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aithasiddartha28/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aithasiddartha28/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/aithasiddartha28/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/aithasiddartha28/Leetcode/tree/master/0622-design-circular-queue) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aithasiddartha28/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/aithasiddartha28/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/aithasiddartha28/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/aithasiddartha28/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/aithasiddartha28/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Data Stream
