@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aithasiddartha28/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/aithasiddartha28/Leetcode/tree/master/0143-reorder-list) |
+| [0231-power-of-two](https://github.com/aithasiddartha28/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/aithasiddartha28/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/aithasiddartha28/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/aithasiddartha28/Leetcode/tree/master/0231-power-of-two) |
 | [1512-number-of-good-pairs](https://github.com/aithasiddartha28/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aithasiddartha28/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/aithasiddartha28/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aithasiddartha28/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/aithasiddartha28/Leetcode/tree/master/0231-power-of-two) |
 ## Graph Theory
 |  |
 | ------- |
