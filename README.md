@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/aithasiddartha28/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/aithasiddartha28/Leetcode/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aithasiddartha28/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0303-range-sum-query-immutable](https://github.com/aithasiddartha28/Leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/aithasiddartha28/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/aithasiddartha28/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/aithasiddartha28/Leetcode/tree/master/0231-power-of-two) |
 ## Graph Theory
@@ -244,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/aithasiddartha28/Leetcode/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/aithasiddartha28/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
