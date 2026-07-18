@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/aithasiddartha28/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/aithasiddartha28/Leetcode/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/aithasiddartha28/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aithasiddartha28/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aithasiddartha28/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/aithasiddartha28/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Dynamic Programming
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/aithasiddartha28/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aithasiddartha28/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aithasiddartha28/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aithasiddartha28/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/aithasiddartha28/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aithasiddartha28/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2974-minimum-number-game](https://github.com/aithasiddartha28/Leetcode/tree/master/2974-minimum-number-game) |
@@ -254,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/aithasiddartha28/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/aithasiddartha28/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/aithasiddartha28/Leetcode/tree/master/0078-subsets) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aithasiddartha28/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
