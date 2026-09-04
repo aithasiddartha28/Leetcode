@@ -286,5 +286,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1251-average-selling-price](https://github.com/aithasiddartha28/Leetcode/tree/master/1251-average-selling-price) |
 | [1729-find-followers-count](https://github.com/aithasiddartha28/Leetcode/tree/master/1729-find-followers-count) |
 <!---LeetCode Topics End-->
