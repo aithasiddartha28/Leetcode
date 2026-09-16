@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/aithasiddartha28/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aithasiddartha28/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aithasiddartha28/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aithasiddartha28/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/aithasiddartha28/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aithasiddartha28/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aithasiddartha28/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/aithasiddartha28/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2974-minimum-number-game](https://github.com/aithasiddartha28/Leetcode/tree/master/2974-minimum-number-game) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aithasiddartha28/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aithasiddartha28/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3689-maximum-total-subarray-value-i](https://github.com/aithasiddartha28/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/aithasiddartha28/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
