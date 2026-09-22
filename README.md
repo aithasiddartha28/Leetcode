@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aithasiddartha28/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aithasiddartha28/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3689-maximum-total-subarray-value-i](https://github.com/aithasiddartha28/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3701-compute-alternating-sum](https://github.com/aithasiddartha28/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/aithasiddartha28/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/aithasiddartha28/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Simulation
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/aithasiddartha28/Leetcode/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/aithasiddartha28/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/aithasiddartha28/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
+| [3701-compute-alternating-sum](https://github.com/aithasiddartha28/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/aithasiddartha28/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Greedy
 |  |
