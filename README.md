@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aithasiddartha28/Leetcode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/aithasiddartha28/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aithasiddartha28/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/aithasiddartha28/Leetcode/tree/master/0046-permutations) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aithasiddartha28/Leetcode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/aithasiddartha28/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aithasiddartha28/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/aithasiddartha28/Leetcode/tree/master/0451-sort-characters-by-frequency) |
