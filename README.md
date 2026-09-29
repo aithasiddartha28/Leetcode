@@ -319,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/aithasiddartha28/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1729-find-followers-count](https://github.com/aithasiddartha28/Leetcode/tree/master/1729-find-followers-count) |
 | [1965-employees-with-missing-information](https://github.com/aithasiddartha28/Leetcode/tree/master/1965-employees-with-missing-information) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aithasiddartha28/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
